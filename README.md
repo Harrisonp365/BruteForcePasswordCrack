@@ -6,7 +6,7 @@ The algorithm is extremly slow after 5-6 character, it may be possible to implim
 I will show some images below of the console output and it cracking a small 4 or 5 character password.
 
 This is the console print out as it is cracking the password and what it is checking
-[Print out while Cracking](/readmepics/cracking.jpg)
+[Print out while Cracking](https://github.com/Harrisonp365/BruteForce/blob/master/readmepics/cracking.jpg)
 
 This is the console print out once it is cracked, will all of the data about how many attempts were made, the password and the time taken.
-[Finished print out](/readmepics/cracked.jpg)
+[Finished print out](https://github.com/Harrisonp365/BruteForce/blob/master/readmepics/cracked.jpg)
